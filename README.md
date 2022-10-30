@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bvjsci
-- 👀 I’m interested in Science/Tech - STEM
-- 🌱 I’m currently learning All Subjects
-- 💞️ I’m looking to collaborate on Basic Projects
+- 👀 I’m interested in Science/Tech - STEM.
+- 🌱 I’m currently learning All Subjects.
+- 💞️ I’m looking to collaborate on Basic Projects.
 - 📫 How to reach me contactus@bvjsci.org 
 
 <!---
